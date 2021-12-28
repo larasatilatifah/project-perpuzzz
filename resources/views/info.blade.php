@@ -12,10 +12,10 @@
             </div>
             <div class="card-body">
                  Website Perpuzzz dikelola dan dikembangkan secara individual oleh Larasati Nur Latifah. 
-                 Website Perpuzz merupakan website layanan admin perpustakaan yang dibuat dengan bantuan Framework Laravel.
+                 Website Perpuzzz merupakan website layanan admin perpustakaan yang dibuat dengan bantuan Framework Laravel.
                  Website Perpuzzz dibuat dengan bantuan Template SB Admin yang didownload dari <a href="https://colorlib.com/wp/">colorlib</a>.
                  <br/>
-                 Website Perpuzz didevelop sebagai syarat tugas akhir Mata Kuliah Manajemen Sistem Informasi yang diampu oleh Dosen Pradana Setialana, S.Pd., M.Eng.
+                 Website Perpuzzz didevelop sebagai syarat tugas akhir Mata Kuliah Manajemen Sistem Informasi yang diampu oleh Dosen Pradana Setialana, S.Pd., M.Eng.
             </div>
         </div>
                     <!-- Collapsable Card Example -->
